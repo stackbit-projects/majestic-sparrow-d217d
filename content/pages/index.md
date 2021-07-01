@@ -10,7 +10,7 @@ sections:
       - label: Learn Less
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contact Them
         url: /contact
         style: secondary
     align: left
